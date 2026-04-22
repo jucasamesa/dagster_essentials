@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 *.egg-info/
 .dagster/
+.tmp_dagster_home*/
